@@ -101,4 +101,4 @@ util-i-kill-by-port:
 
 .PHONY: parse
 parse:
-	@python3 modules/1_selenium_parser.py
+	@python3 modules/1_playwright_parser.py

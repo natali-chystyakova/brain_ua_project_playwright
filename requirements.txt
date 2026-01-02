@@ -34,14 +34,11 @@ django-environ==0.10.0
 # For PostgreSQL.
 psycopg2-binary==2.9.6
 
-#for Requests + BS4
-#beautifulsoup4==4.12.2
-#lxml>=4.9.3
 
-# For Selenium
-selenium==4.38.0
-webdriver-manager==4.0.2
 
+# For Playwright
+playwright==1.57.0
+#После установки библиотек playwright install Это установит браузеры
 
 # For Optional but helpful
 #fake-useragent==2.2.0
